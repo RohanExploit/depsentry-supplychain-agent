@@ -1,0 +1,57 @@
+{
+  "agent_name": "DepSentry Supply-Chain Architect",
+  "seen_advisory_ids": [
+    "GHSA-9hjg-9r4m-mvj7",
+    "GHSA-9wx4-h78v-vm56",
+    "GHSA-gc5v-m9x4-r6x2",
+    "GHSA-j8r2-6x86-q33q",
+    "PYSEC-2023-74",
+    "PYSEC-2026-1872",
+    "PYSEC-2026-1873",
+    "PYSEC-2026-2275",
+    "GHSA-2xpw-w6gg-jr37",
+    "GHSA-34jh-p97f-mpxf",
+    "GHSA-38jv-5279-wg99",
+    "GHSA-8988-9cw3-xx77",
+    "GHSA-g4mx-q9vg-27p4",
+    "GHSA-gm62-xv2j-4w53",
+    "GHSA-pq67-6m6q-mj2v",
+    "GHSA-q2q7-5pp4-w6pg",
+    "GHSA-22hg-r758-rrw9",
+    "GHSA-254f-3936-288h",
+    "GHSA-27h8-gf7j-v5hc",
+    "GHSA-332p-7hrc-92wf",
+    "GHSA-3f63-hfp8-52jq",
+    "GHSA-3j72-p6qg-6xp7",
+    "GHSA-44wm-f244-xhp3",
+    "GHSA-4558-3h8r-v8xp",
+    "GHSA-68rp-wp8r-4726",
+    "GHSA-m2qf-hxjv-5gpq",
+    "PYSEC-2023-62",
+    "PYSEC-2026-2151",
+    "GHSA-7p48-42j8-8846",
+    "GHSA-vqwp-45wm-r9r5",
+    "PYSEC-2026-212",
+    "PYSEC-2026-2285"
+  ],
+  "audit_history": [
+    {
+      "timestamp_utc": "2026-11-15T16:45:10.622129+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 32,
+      "summary": "### DepSentry Supply-Chain Security Dossier (Risk 78.2/100)\n- **Vulnerability Exposure**: Detected `32` live OSV advisories across `6` packages (`5` CRITICAL).\n- **Highest Risk Dependency**: `requests"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:46:38.843354+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "### DepSentry Supply-Chain Security Dossier (Risk 78.2/100)\n- **Vulnerability Exposure**: Detected `32` live OSV advisories across `6` packages (`5` CRITICAL).\n- **Highest Risk Dependency**: `requests"
+    }
+  ],
+  "total_audits": 2,
+  "last_audit_utc": "2026-11-15T16:46:38.843354+00:00"
+}

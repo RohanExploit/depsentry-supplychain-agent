@@ -58,8 +58,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "- **Critical CVEs:** Overall risk is 78.2/100; all five packages are CRITICAL (82.0 risk; 32 CVEs total), including advisories GHSA-9wx4-h78v-vm56 (`requests`), GHSA-34jh-p97f-mpxf (`urllib3`), GHSA-2"
+    },
+    {
+      "timestamp_utc": "2026-11-16T10:35:54.838130+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As DepSentry Architect, here is your supply-chain security assessment:\n\n*   **Critical CVEs:** You are carrying 32 combined vulnerabilities across five core dependencies. These include high-impact fla"
     }
   ],
-  "total_audits": 3,
-  "last_audit_utc": "2026-11-15T16:54:16.449910+00:00"
+  "total_audits": 4,
+  "last_audit_utc": "2026-11-16T10:35:54.838130+00:00"
 }

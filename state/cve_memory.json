@@ -98,8 +98,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "As DepSentry Architect, here is your supply-chain security assessment:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five core dependencies. These include high-impact advisorie"
+    },
+    {
+      "timestamp_utc": "2026-11-21T10:38:19.822682+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As your Supply-Chain Security Architect, here is the assessment of your current dependency risk:\n\n*   **Critical CVEs:** 32 total vulnerabilities identified across five packages. These include multipl"
     }
   ],
-  "total_audits": 8,
-  "last_audit_utc": "2026-11-20T10:52:49.313705+00:00"
+  "total_audits": 9,
+  "last_audit_utc": "2026-11-21T10:38:19.822682+00:00"
 }

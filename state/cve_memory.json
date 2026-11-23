@@ -114,8 +114,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "As DepSentry Architect, here is your supply-chain security summary:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five core dependencies. These include high-impact issues relat"
+    },
+    {
+      "timestamp_utc": "2026-11-23T11:43:56.636112+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As DepSentry Architect, here is your audit summary:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five core dependencies. These include high-impact flaws in `requests`, `urllib"
     }
   ],
-  "total_audits": 10,
-  "last_audit_utc": "2026-11-22T10:40:22.671674+00:00"
+  "total_audits": 11,
+  "last_audit_utc": "2026-11-23T11:43:56.636112+00:00"
 }

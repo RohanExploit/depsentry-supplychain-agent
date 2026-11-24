@@ -122,8 +122,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "As DepSentry Architect, here is your audit summary:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five core dependencies. These include high-impact flaws in `requests`, `urllib"
+    },
+    {
+      "timestamp_utc": "2026-11-24T13:17:04.608820+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "* **Critical CVEs:** All 5 direct dependencies (`requests`, `urllib3`, `pillow`, `flask`, `streamlit`) are classified as CRITICAL, amassing 32 combined vulnerabilities including GHSA-9hjg-9r4m-mvj7 an"
     }
   ],
-  "total_audits": 11,
-  "last_audit_utc": "2026-11-23T11:43:56.636112+00:00"
+  "total_audits": 12,
+  "last_audit_utc": "2026-11-24T13:17:04.608820+00:00"
 }

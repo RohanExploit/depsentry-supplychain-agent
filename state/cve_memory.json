@@ -130,8 +130,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "* **Critical CVEs:** All 5 direct dependencies (`requests`, `urllib3`, `pillow`, `flask`, `streamlit`) are classified as CRITICAL, amassing 32 combined vulnerabilities including GHSA-9hjg-9r4m-mvj7 an"
+    },
+    {
+      "timestamp_utc": "2026-11-25T12:03:07.629553+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As DepSentry Architect, here is your supply-chain risk summary:\n\n*   **Critical CVE Exposure:** Multiple packages (`requests`, `urllib3`, `pillow`, `flask`, `streamlit`) are flagged with critical vuln"
     }
   ],
-  "total_audits": 12,
-  "last_audit_utc": "2026-11-24T13:17:04.608820+00:00"
+  "total_audits": 13,
+  "last_audit_utc": "2026-11-25T12:03:07.629553+00:00"
 }

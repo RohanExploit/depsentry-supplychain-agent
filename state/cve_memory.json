@@ -138,8 +138,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "As DepSentry Architect, here is your supply-chain risk summary:\n\n*   **Critical CVE Exposure:** Multiple packages (`requests`, `urllib3`, `pillow`, `flask`, `streamlit`) are flagged with critical vuln"
+    },
+    {
+      "timestamp_utc": "2026-11-26T11:51:14.026338+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As DepSentry Supply-Chain Security Architect, here is your audit summary:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five packages. Notable threats include `urllib3` (improp"
     }
   ],
-  "total_audits": 13,
-  "last_audit_utc": "2026-11-25T12:03:07.629553+00:00"
+  "total_audits": 14,
+  "last_audit_utc": "2026-11-26T11:51:14.026338+00:00"
 }

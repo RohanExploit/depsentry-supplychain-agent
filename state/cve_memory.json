@@ -146,8 +146,16 @@
       "vulnerabilities": 32,
       "new_cves_detected": 0,
       "summary": "As DepSentry Supply-Chain Security Architect, here is your audit summary:\n\n*   **Critical CVEs:** You have 32 cumulative vulnerabilities across five packages. Notable threats include `urllib3` (improp"
+    },
+    {
+      "timestamp_utc": "2026-11-27T11:44:05.651998+00:00",
+      "target": "Custom Manifest",
+      "overall_risk": 78.2,
+      "vulnerabilities": 32,
+      "new_cves_detected": 0,
+      "summary": "As DepSentry Supply-Chain Security Architect, here is your audit summary:\n\n*   **Critical CVEs:** The environment contains 32 cumulative vulnerabilities across five core dependencies. These include hi"
     }
   ],
-  "total_audits": 14,
-  "last_audit_utc": "2026-11-26T11:51:14.026338+00:00"
+  "total_audits": 15,
+  "last_audit_utc": "2026-11-27T11:44:05.651998+00:00"
 }
